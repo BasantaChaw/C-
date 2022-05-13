@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1625900142 source:c:\users\dream codes\desktop\c++\inventory management project\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<cmath>
+
